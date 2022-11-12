@@ -1,3 +1,3 @@
 # portfolio
 
-https://srlsec.github.io/My-portfolio/
+https://srlsec.github.io/my-portfolio/
